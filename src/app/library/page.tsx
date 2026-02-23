@@ -327,10 +327,6 @@ export default function LibraryPage() {
             </div>
           )}
         </section>
-
-        <p className="text-sm text-muted-foreground">
-          <span className="text-primary font-medium">Tip:</span> Upload TXT/MD/JSON books and switch languages while reading.
-        </p>
       </div>
     </div>
   );
